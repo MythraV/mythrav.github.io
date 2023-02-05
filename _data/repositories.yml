@@ -1,5 +1,5 @@
 github_users:
-  - torvalds
+  - mythrav
   - alshedivat
 
 github_repos:
@@ -8,5 +8,5 @@ github_repos:
   - jekyll/jekyll
   - jquery/jquery
   - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
+  - jpswalsh/academiconsthr
   - mathjax/MathJax
